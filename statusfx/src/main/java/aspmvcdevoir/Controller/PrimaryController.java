@@ -1,6 +1,8 @@
-package aspmvcdevoir;
+package aspmvcdevoir.Controller;
 
 import java.io.IOException;
+
+import aspmvcdevoir.App;
 import javafx.fxml.FXML;
 
 public class PrimaryController {
